@@ -1,0 +1,172 @@
+{
+  "reBlog": [
+    {
+      "id": 1,
+      "title": "In the digital age, election campaigns have transcended",
+      "image": "./assets/image/photo1.jpeg",
+      "description": "Short description for the first blog.",
+      "content": [
+        {
+          "heading": "Blog 1 Section",
+          "image": "./assets/image/photo2.jpeg",
+          "dascrive": "In the digital age, election campaigns have transcended traditional boundaries, leveraging social media and technology to reach voters. While digital campaigning gains momentum, ground-level mobilization remains crucial, especially in rural areas where interpersonal connections carry significant weight."
+        },
+        {
+          "heading": "Blog 2 Section",
+          "image": "./assets/image/photo2.jpeg",
+          "dascrive": "In the digital age, election campaigns have transcended traditional boundaries, leveraging social media and technology to reach voters. While digital campaigning gains momentum, ground-level mobilization remains crucial, especially in rural areas where interpersonal connections carry significant weight."
+        },
+        {
+          "heading": "Blog 3 Section",
+          "image": "./assets/image/photo2.jpeg",
+          "dascrive": "In the digital age, election campaigns have transcended traditional boundaries, leveraging social media and technology to reach voters. While digital campaigning gains momentum, ground-level mobilization remains crucial, especially in rural areas where interpersonal connections carry significant weight."
+        },
+        {
+          "heading": "Blog 4 Section",
+          "image": "./assets/image/photo2.jpeg",
+          "description": "Full description for the blog."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "secound blog",
+      "image": "./assets/image/photo2.jpeg",
+      "description": "Short description for the first blog.",
+      "content": [
+        {
+          "heading": "Blog 1 Section",
+          "image": "./assets/image/photo4.jpeg",
+          "dascrive": "In the digital age, election campaigns have transcended traditional boundaries, leveraging social media and technology to reach voters. While digital campaigning gains momentum, ground-level mobilization remains crucial, especially in rural areas where interpersonal connections carry significant weight."
+        },
+        {
+          "heading": "Blog 2 Section",
+          "image": "./assets/image/photo4.jpeg",
+          "dascrive": "In the digital age, election campaigns have transcended traditional boundaries, leveraging social media and technology to reach voters. While digital campaigning gains momentum, ground-level mobilization remains crucial, especially in rural areas where interpersonal connections carry significant weight."
+        },
+        {
+          "heading": "Blog 3 Section",
+          "image": "./assets/image/photo4.jpeg",
+          "dascrive": "In the digital age, election campaigns have transcended traditional boundaries, leveraging social media and technology to reach voters. While digital campaigning gains momentum, ground-level mobilization remains crucial, especially in rural areas where interpersonal connections carry significant weight."
+        },
+        {
+          "heading": "Blog 4 Section",
+          "image": "./assets/image/photo4.jpeg",
+          "description": "Full description for the blog."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "third blog",
+      "image": "./assets/image/photo3.jpeg",
+      "description": "Short description for the first blog.",
+      "content": [
+        {
+          "heading": "Blog 1 Section",
+          "image": "./assets/image/photo3.jpeg",
+          "dascrive": "In the digital age, election campaigns have transcended traditional boundaries, leveraging social media and technology to reach voters. While digital campaigning gains momentum, ground-level mobilization remains crucial, especially in rural areas where interpersonal connections carry significant weight."
+        },
+        {
+          "heading": "Blog 2 Section",
+          "image": "./assets/image/photo4.jpeg",
+          "dascrive": "In the digital age, election campaigns have transcended traditional boundaries, leveraging social media and technology to reach voters. While digital campaigning gains momentum, ground-level mobilization remains crucial, especially in rural areas where interpersonal connections carry significant weight."
+        },
+        {
+          "heading": "Blog 3 Section",
+          "image": "./assets/image/photo3.jpeg",
+          "dascrive": "In the digital age, election campaigns have transcended traditional boundaries, leveraging social media and technology to reach voters. While digital campaigning gains momentum, ground-level mobilization remains crucial, especially in rural areas where interpersonal connections carry significant weight."
+        },
+        {
+          "heading": "Blog 4 Section",
+          "image": "./assets/image/photo3.jpeg",
+          "description": "Full description for the blog."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "fourth blog",
+      "image": "./assets/image/photo4.jpeg",
+      "description": "Short description for the first blog.",
+      "content": [
+        {
+          "heading": "Blog 1 Section",
+          "image": "./assets/image/photo4.jpeg",
+          "dascrive": "In the digital age, election campaigns have transcended traditional boundaries, leveraging social media and technology to reach voters. While digital campaigning gains momentum, ground-level mobilization remains crucial, especially in rural areas where interpersonal connections carry significant weight."
+        },
+        {
+          "heading": "Blog 2 Section",
+          "image": "./assets/image/photo4.jpeg",
+          "dascrive": "In the digital age, election campaigns have transcended traditional boundaries, leveraging social media and technology to reach voters. While digital campaigning gains momentum, ground-level mobilization remains crucial, especially in rural areas where interpersonal connections carry significant weight."
+        },
+        {
+          "heading": "Blog 3 Section",
+          "image": "./assets/image/photo4.jpeg",
+          "dascrive": "In the digital age, election campaigns have transcended traditional boundaries, leveraging social media and technology to reach voters. While digital campaigning gains momentum, ground-level mobilization remains crucial, especially in rural areas where interpersonal connections carry significant weight."
+        },
+        {
+          "heading": "Blog 4 Section",
+          "image": "./assets/image/photo4.jpeg",
+          "description": "Full description for the blog."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "secound blog",
+      "image": "./assets/image/photo5.jpeg",
+      "description": "Short description for the first blog.",
+      "content": [
+        {
+          "heading": "Blog 1 Section",
+          "image": "./assets/image/photo5.jpeg",
+          "dascrive": "In the digital age, election campaigns have transcended traditional boundaries, leveraging social media and technology to reach voters. While digital campaigning gains momentum, ground-level mobilization remains crucial, especially in rural areas where interpersonal connections carry significant weight."
+        },
+        {
+          "heading": "Blog 2 Section",
+          "image": "./assets/image/photo5.jpeg",
+          "dascrive": "In the digital age, election campaigns have transcended traditional boundaries, leveraging social media and technology to reach voters. While digital campaigning gains momentum, ground-level mobilization remains crucial, especially in rural areas where interpersonal connections carry significant weight."
+        },
+        {
+          "heading": "Blog 3 Section",
+          "image": "./assets/image/photo5.jpeg",
+          "dascrive": "In the digital age, election campaigns have transcended traditional boundaries, leveraging social media and technology to reach voters. While digital campaigning gains momentum, ground-level mobilization remains crucial, especially in rural areas where interpersonal connections carry significant weight."
+        },
+        {
+          "heading": "Blog 4 Section",
+          "image": "./assets/image/photo5.jpeg",
+          "description": "Full description for the blog."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "six blog",
+      "image": "./assets/image/photo6.jpeg",
+      "description": "Short description for the first blog.",
+      "content": [
+        {
+          "heading": "Blog 1 Section",
+          "image": "./assets/image/photo6.jpeg",
+          "dascrive": "In the digital age, election campaigns have transcended traditional boundaries, leveraging social media and technology to reach voters. While digital campaigning gains momentum, ground-level mobilization remains crucial, especially in rural areas where interpersonal connections carry significant weight."
+        },
+        {
+          "heading": "Blog 2 Section",
+          "image": "./assets/image/photo6.jpeg",
+          "dascrive": "In the digital age, election campaigns have transcended traditional boundaries, leveraging social media and technology to reach voters. While digital campaigning gains momentum, ground-level mobilization remains crucial, especially in rural areas where interpersonal connections carry significant weight."
+        },
+        {
+          "heading": "Blog 3 Section",
+          "image": "./assets/image/photo6.jpeg",
+          "dascrive": "In the digital age, election campaigns have transcended traditional boundaries, leveraging social media and technology to reach voters. While digital campaigning gains momentum, ground-level mobilization remains crucial, especially in rural areas where interpersonal connections carry significant weight."
+        },
+        {
+          "heading": "Blog 4 Section",
+          "image": "./assets/image/photo6.jpeg",
+          "description": "Full description for the blog."
+        }
+      ]
+    }
+  ]
+}
